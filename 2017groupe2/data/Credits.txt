@@ -1,0 +1,46 @@
+﻿<block:-1,-1,10,10,offbot,center,>
+Les gardiens du climat
+
+\c[2]Createurs
+Théo
+Arthur
+Félix
+Alexandre
+Wisdom
+Naël
+Sandro
+Clément
+Timothée
+Ibtissem
+Mae
+Noémie
+Tinoé
+Charlie
+Nichame
+Camila
+Chayma
+Maia
+Aelis
+Youssef
+
+
+\c[2]Animateur encadrant
+Camille
+
+\c[2]Aide additionelle
+Gilles
+
+\c[2]Merci à
+Gilles
+Pierre
+Lionel
+Le CLAE Molière
+LEO LAGRANGE
+
+
+
+
+LA FIN
+LE CLIMAT A ETE RESTAURE GRACE A VOUS
+MERCI D'AVOIR JOUE
+</block>
